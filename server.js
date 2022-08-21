@@ -1,7 +1,7 @@
 const express = require("express") ;
 const dotenv = require("dotenv") ;
 const url =require("url")
-const path = require("path")
+// const path = require("path")
 const colors = require("colors") ;
 
 const routerPage = require("./routes/pageRouter") 
